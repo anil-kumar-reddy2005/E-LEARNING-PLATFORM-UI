@@ -28,3 +28,4 @@ Overall, this E-Learning Platform Frontend project demonstrates strong fundament
 
 OUTPUT:
 
+<img width="1909" height="1077" alt="Image" src="https://github.com/user-attachments/assets/af5acbcd-0fcc-4644-b5c1-587cb0097c13" />
